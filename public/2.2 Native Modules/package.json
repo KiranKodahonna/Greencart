@@ -1,0 +1,14 @@
+{
+  "name": "nativemodule",
+  "version": "1.0.0",
+  "description": "\"iam kiran\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"ki\""
+  ],
+  "author": "\"kiran\"",
+  "license": "ISC"
+}
