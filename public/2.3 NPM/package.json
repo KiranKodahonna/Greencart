@@ -1,14 +1,10 @@
 {
   "name": "learning-npm",
   "version": "1.0.0",
-  "description": "iam learning",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "kiran",
-  "license": "ISC",
+  "type": "module",
   "dependencies": {
-    "sillyname": "^0.1.0"
+    "inquirer": "^14.0.2",
+    "qr-image": "^3.2.0",
+    "superheroes": "^4.0.0"
   }
 }
